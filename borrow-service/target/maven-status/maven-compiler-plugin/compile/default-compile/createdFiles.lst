@@ -1,0 +1,9 @@
+com\example\demo\BorrowServiceApplication.class
+com\example\demo\service\BorrowService.class
+com\example\demo\client\BookClient.class
+com\example\demo\client\UserClient.class
+com\example\demo\entity\BorrowRecord.class
+com\example\demo\dto\UserDTO.class
+com\example\demo\controller\BorrowController.class
+com\example\demo\dto\BookDTO.class
+com\example\demo\repository\BorrowRepository.class

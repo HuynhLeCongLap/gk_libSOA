@@ -1,0 +1,9 @@
+C:\Users\Lap\gk_libSOA\borrow-service\src\main\java\com\example\demo\BorrowServiceApplication.java
+C:\Users\Lap\gk_libSOA\borrow-service\src\main\java\com\example\demo\client\BookClient.java
+C:\Users\Lap\gk_libSOA\borrow-service\src\main\java\com\example\demo\client\UserClient.java
+C:\Users\Lap\gk_libSOA\borrow-service\src\main\java\com\example\demo\controller\BorrowController.java
+C:\Users\Lap\gk_libSOA\borrow-service\src\main\java\com\example\demo\dto\BookDTO.java
+C:\Users\Lap\gk_libSOA\borrow-service\src\main\java\com\example\demo\dto\UserDTO.java
+C:\Users\Lap\gk_libSOA\borrow-service\src\main\java\com\example\demo\entity\BorrowRecord.java
+C:\Users\Lap\gk_libSOA\borrow-service\src\main\java\com\example\demo\repository\BorrowRepository.java
+C:\Users\Lap\gk_libSOA\borrow-service\src\main\java\com\example\demo\service\BorrowService.java
