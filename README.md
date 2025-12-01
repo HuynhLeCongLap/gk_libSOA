@@ -68,7 +68,7 @@ Lưu ý: Nếu dùng STS4, hãy dùng Boot Dashboard để start cả 4 cùng l�
 1. Đảm bảo cả 4 service đều đã chạy (Console không báo lỗi)  
 2. Mở trình duyệt truy cập:
 
-```text
+
 http://localhost:8080
 
 Đăng nhập demo:
