@@ -50,7 +50,6 @@ Hệ thống bao gồm **4 Service độc lập**:
 ### 2. Cài đặt
 Clone dự án về máy:
 
-```bash
 git clone <link-dự-án-của-bạn>
 
 ### 3. Khởi chạy (Quan trọng)
